@@ -62,4 +62,4 @@ Open the application on your browser 127.0.0.1:5000.
 - @ engineervinceblair@gmail.com 
 
 ## License
-- *MIT*
+- *MIT* License
